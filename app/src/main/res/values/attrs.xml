@@ -1,0 +1,5 @@
+<resources>
+    <declare-styleable name="PhoneEditText">
+        <attr name="dividerString" format="string" />
+    </declare-styleable>
+</resources>
